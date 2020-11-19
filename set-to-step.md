@@ -12,7 +12,7 @@
   
   
   - Komentar 
-    (comment) bagian dari program yang tidak perlu dieksekusi.Bagian hanya digunakan agar program mudah di pahami.Komentar sendiri di bagi mnejadi dua 
+    (comment) bagian dari program yang tidak perlu dieksekusi.Bagian yang hanya digunakan agar program mudah di pahami.Komentar sendiri di bagi mnejadi dua 
     yaitu;
     
           1. Single Line
