@@ -11,7 +11,7 @@
   
   
   - Komentar 
-    Komentar (comment) bagian dari program yang tidak perlu dieksekusi.Bagian hanya digunakan agar program mudah di pahami.Komentar sendiri di bagi mnejadi dua 
+    (comment) bagian dari program yang tidak perlu dieksekusi.Bagian hanya digunakan agar program mudah di pahami.Komentar sendiri di bagi mnejadi dua 
     yaitu;
           1. Single Line
              Menambahkan komentar pada satu line. Biasa menggunakan tanda pagar '#'.
@@ -20,7 +20,8 @@
              Menambahkan komentar pada satu baris. Bisa menggunakan tanda pagar '#' atau HereDoc.HereDoc bisa menampung komentar pada satu baris,namun ini masih 
              kurang efisien jadi disarankan menggunakan tanda pagar '#'.
   - Variable
-    Variabel adalah suatu tempat yang digunakan untuk menampung data atau nilai pada memori yang mempunyai nilai yang dapat berubah–ubah dalam proses program.Di     bash, ada beberapa jenis variable yang di bisa kelompokan berdasarkan fungsi atau kegunaannya. Variable di kelompokan menjadi;
+    adalah suatu tempat yang digunakan untuk menampung data atau nilai pada memori yang mempunyai nilai yang dapat berubah–ubah dalam proses program.Di Bash
+    ada beberapa jenis variable yang di bisa kelompokan berdasarkan fungsi atau kegunaannya. Variable di kelompokan menjadi;
       > Enviroment Variable
         - Digunakan untuk shell system .
         - Biasa menggunakan huruf kapital.
