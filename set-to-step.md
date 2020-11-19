@@ -4,6 +4,7 @@
 
 
 1.Intro
+
   Bash shell adalah bahasa shell Unix atau script pada terminal untuk menjalankan  perintah di linux 
   dan MacOS.
 
