@@ -1,4 +1,5 @@
 #!/bin/bash
+# Simple Dialouge
 
 siapa="Kax";
 dimana="danau";
