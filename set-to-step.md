@@ -13,6 +13,7 @@
   - Komentar 
     (comment) bagian dari program yang tidak perlu dieksekusi.Bagian hanya digunakan agar program mudah di pahami.Komentar sendiri di bagi mnejadi dua 
     yaitu;
+    
           1. Single Line
              Menambahkan komentar pada satu line. Biasa menggunakan tanda pagar '#'.
             
