@@ -27,19 +27,19 @@
     adalah suatu tempat yang digunakan untuk menampung data atau nilai pada memori yang mempunyai nilai yang dapat berubah–ubah dalam 
     proses program.Di Bashada beberapa jenis variable yang di bisa kelompokan berdasarkan fungsi atau kegunaannya. Variable di kelompokan 
     menjadi;
-      . Enviroment Variable
+       1. Enviroment Variable
         - Digunakan untuk shell system .
         - Biasa menggunakan huruf kapital.
         - Untuk mengetahui apa saja enviroment pada system, ketikan perintah **'env'**, tanpa tanda 
           petik.
           Contoh; **$HOSTNAME**, **$USER**, **$HOME** dll.
         
-       - Parameter Variable
+      2. Parameter Variable
          Digunakan untuk menampung beberapa argumen sekaligus dalam shell. Biasa menggunakan 
          tanda **“$”**.
          Contoh; **$1**, **$2**, **$3** dll.
          
-       - User Defined Variable
+      3. User Defined Variable
          Biasa digunakan oleh penulis sendiri untuk menjalankan beberapa perintah dalam satu shell.Sama persis dengan Parameter Variable. 
          Biasa menggunakan angka atau underscore **"-"** tinggal eksekusinya menggunkan **'$'**.
          Contoh; Dimana='Danau',untuk memanggil variablenya cukup ketik **$Dimana**. 
